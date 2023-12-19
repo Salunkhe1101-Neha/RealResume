@@ -1,0 +1,12 @@
+.header
+{
+    height: 500px;
+    width: 100%;
+    background-color: aqua;
+    background: url(https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png);
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    background-position: center;
+
+}

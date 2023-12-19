@@ -1,0 +1,26 @@
+.navbar{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+}
+
+.navbar_div
+{
+    font-size: 20px;
+}
+
+#NS
+{
+    font-size: 45px;
+}
+
+.icon_div
+{
+    width: 100%;
+    display: flex;
+    gap: 10px;
+
+}

@@ -1,0 +1,31 @@
+.section
+{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(230, 226, 226);
+}
+.section_Con1
+{
+   text-align: center;
+   width: 30%;
+}
+
+.section_Con2
+{
+  width: 60%;
+}
+
+.section_Con3{
+  text-align: center;
+  width: 30%;
+  
+}
+
+#section_btn
+{
+    padding: 6px;
+    border-radius: 4px;
+}
